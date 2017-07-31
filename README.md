@@ -4,7 +4,7 @@
 @time:2017.7
 
 这个project包含手写数字识别官方给的softmax回归例子，另外还加入了一些其他功能的例子，
-可以用于做个简单的benchmark 性能测试使用，文件说明如下：
+可以用于做个简单的benchmark 性能测试使用或者研究学习使用，文件说明如下：
 cnn_full_tensorboard.py ： 包含了可视化tensorboard里面的项，scalar\graph\embedding等
 convolutional_graph_partitioned.py ： CNN的图拆分
 convolutional_multicore.py ： CNN的多核和多线程的配置
